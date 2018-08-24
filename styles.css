@@ -1,0 +1,12 @@
+body {
+    background: #781711;
+}
+
+.container {
+    position: absolute;
+    top:0;
+    right:0;
+    bottom:0;
+    right:0;
+    overflow:hidden;
+}
