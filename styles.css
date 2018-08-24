@@ -14,7 +14,7 @@ body {
 #canvas {
     width: 150px;
     height: 150px;
-    background:#000000;
+    background:none;
     border:3px solid #FFFFFF;
     border-radius:50%;
     position: absolute;
@@ -22,4 +22,12 @@ body {
     top:50%;
     margin:-10px 0 0 -10px;
     pointer-events:none;
+}
+
+img {
+    position: absolute;
+    top: 8px;
+    right:30px;
+    border-radius: 50%;
+    width: 90px;
 }
